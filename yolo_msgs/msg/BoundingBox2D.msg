@@ -2,4 +2,4 @@
 yolo_msgs/Pose2D center
 
 # total size of the bounding box, in pixels, surrounding the object's center
-yolo_msgs/Vector2 size
+yolo_msgs/Vector3 size
