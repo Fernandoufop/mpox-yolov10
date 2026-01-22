@@ -6,7 +6,7 @@ string class_name
 float64 score
 
 # ID for tracking
-string id
+string id1
 
 # 2D bounding box surrounding the object in pixels
 yolo_msgs/BoundingBox2D bbox
