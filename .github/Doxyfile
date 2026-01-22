@@ -7,7 +7,7 @@
 #---------------------------------------------------------------------------
 
 DOXYFILE_ENCODING      = UTF-8
-PROJECT_NAME           = "mpox-yolov10: YOLOv10-HSNet / HOST-YOLOv10 for ROS 2"
+PROJECT_NAME           =  "mpox-yolov10: YOLOv10-HSNet / HOST-YOLOv10 for ROS 2"
 PROJECT_NUMBER         =
 PROJECT_BRIEF          = "ROS 2 integration for YOLOv10-based detection/classification pipelines (mpox use-cases)."
 PROJECT_LOGO           =
