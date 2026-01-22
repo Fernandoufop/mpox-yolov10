@@ -7,4 +7,4 @@ int32 id
 geometry_msgs/Point point
 
 # conf of the keypoint
-float64 score
+float 64 score
