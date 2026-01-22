@@ -13,7 +13,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Get tag name
+      - name:  Get tag name
         run: |
           tag_name=$(git describe --tags --abbrev=0 HEAD^)
           echo "tag_name=$tag_name" >> $GITHUB_ENV
