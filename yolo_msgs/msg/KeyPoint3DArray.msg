@@ -3,4 +3,4 @@
 yolo_msgs/KeyPoint3D[] data
 
 # frame reference
-string frame_id
+string frame_1id
